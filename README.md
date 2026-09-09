@@ -190,6 +190,8 @@ The goal is not simply to create another demo application, but to demonstrate ho
 
 Flutter Developer focused on building practical, scalable mobile applications and sharing real-world development experience.
 
+🔗 **LinkedIn:** [Sandeep Kakavakam](https://www.linkedin.com/in/sandeep-kakavakam-4b4007224)
+
 ---
 
 ## ⭐ Follow the Journey
